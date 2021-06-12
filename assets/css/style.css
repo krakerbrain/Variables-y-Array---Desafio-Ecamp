@@ -1,0 +1,8 @@
+#atencionRadiologia,
+#atencionTraumatologia,
+#atencionOdontologia {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  background: #ee69d188;
+}
